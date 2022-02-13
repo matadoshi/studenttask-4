@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\Task4HW\bin\Debug\netcoreapp3.1\Task4HW.exe
+C:\Users\Onur\source\repos\Task4HW\bin\Debug\netcoreapp3.1\Task4HW.deps.json
+C:\Users\Onur\source\repos\Task4HW\bin\Debug\netcoreapp3.1\Task4HW.runtimeconfig.json
+C:\Users\Onur\source\repos\Task4HW\bin\Debug\netcoreapp3.1\Task4HW.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\Task4HW\bin\Debug\netcoreapp3.1\Task4HW.dll
+C:\Users\Onur\source\repos\Task4HW\bin\Debug\netcoreapp3.1\Task4HW.pdb
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.AssemblyInfo.cs
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.dll
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.pdb
+C:\Users\Onur\source\repos\Task4HW\obj\Debug\netcoreapp3.1\Task4HW.genruntimeconfig.cache
